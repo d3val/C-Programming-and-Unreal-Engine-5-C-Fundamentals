@@ -38,6 +38,13 @@ int main()
 	cout << "Tax: " << tax << endl;
 	cout << "Final price: " << price + tax << endl;
 
+	float float1 = 15601455;
+	float float2 = 1.5e25;
+	float float3 = 0.00000584;
+	cout << "Float1: " << float1 << endl;
+	cout << "Float2: " << float2 << endl;
+	cout << "Float3: " << float3 << endl;
+
 	const double pi = 3.1416;
 	cout << "Pi: " << pi << endl;
 
