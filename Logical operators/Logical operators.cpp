@@ -23,5 +23,26 @@ int main()
 	cout << myBool << endl;
 	cout << !myBool << endl;
 
+	//if statement
+	bool playerIsAlive = true;
+	if (playerIsAlive)
+	{
+		cout << "Player is alive! :)" << endl;
+	}
+	else
+	{
+		cout << "Player is dead :(" << endl;
+	}
+
+	int playerHealth = 100;
+	if (playerHealth > 0)
+	{
+		cout << "Player is alive! :)" << endl;
+	}
+	else
+	{
+		cout << "Player is dead :(" << endl;
+	}
+
 }
 
