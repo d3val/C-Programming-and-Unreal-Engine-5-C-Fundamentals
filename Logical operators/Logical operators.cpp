@@ -44,5 +44,25 @@ int main()
 		cout << "Player is dead :(" << endl;
 	}
 
+	int playerScore = 50;
+
+	if (0 < playerScore < 50) 
+	{
+		cout << "You can do it better!" << endl;
+	}
+	else
+	{
+		cout << "Great job!" << endl;
+	}
+
+	if (playerIsAlive && playerScore < 50)
+	{
+		cout << "Keep it up!" << endl;
+	}
+	else
+	{
+		cout << "What a shame!" << endl;
+	}
+
 }
 
