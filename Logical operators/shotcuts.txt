@@ -9,4 +9,7 @@ ctrl+j: Mostrar la lista de sugerencias de código
 ctrl+k,ctrl+x: Insertar un fragmento de código
 ctrl+k,ctrl+s: Rodear el código seleccionado con un bloque de código
 
+Atajos para edición de codigo:
+ctrl+alt+left-click: Activa un segundo cursor para editar múltiples líneas al mismo tiempo
 alt+arrow: Mover la línea seleccionada hacia arriba o hacia abajo
+hold alt+left-click: Seleccionar múltiples líneas de código para edición simultánea
