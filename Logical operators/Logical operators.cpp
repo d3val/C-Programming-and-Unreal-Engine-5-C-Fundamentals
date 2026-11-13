@@ -65,11 +65,22 @@ int main()
 	}
 
 	//Chars
-
 	char gradeSymbol = 'A';
 	char beepSound = '\a';
-
 	cout << "Grade: " << gradeSymbol << endl;
 	cout << beepSound << endl;
+
+	//Conditional operator
+	int num1(6), num2(0), result(0);
+	float result2;
+
+	//Conditional operator: (condition) ? (value if true) : (value if false)
+	result = (num1 > num2) ? num1 : num2;
+	result2 = (num2 != 0) ? float(num1) / num2 : num2;
+
+	cout << result << endl;
+	cout << result2 << endl;
+
+	return 0;
 }
 
