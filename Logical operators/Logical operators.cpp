@@ -46,7 +46,7 @@ int main()
 
 	int playerScore = 50;
 
-	if (0 < playerScore < 50) 
+	if (0 < playerScore < 50)
 	{
 		cout << "You can do it better!" << endl;
 	}
@@ -64,5 +64,12 @@ int main()
 		cout << "What a shame!" << endl;
 	}
 
+	//Chars
+
+	char gradeSymbol = 'A';
+	char beepSound = '\a';
+
+	cout << "Grade: " << gradeSymbol << endl;
+	cout << beepSound << endl;
 }
 
