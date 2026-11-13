@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="Logical operators.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="shotcuts.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
