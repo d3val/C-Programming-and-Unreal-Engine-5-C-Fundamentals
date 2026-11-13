@@ -1,0 +1,12 @@
+Atajos de teclado en visual studio:
+ctrk+k,ctrl+c: Comentar la línea seleccionada
+ctrl+k,ctrl+u: Descomentar la línea seleccionada
+ctrl+k,ctrl+d: Formatear el documento
+ctrl+r,ctrl+r: Reemplazar/renombrar la variable seleccionada
+ctrl+M,ctrl+O: Contraer/expandir el bloque de código
+ctrl+mnctrl+m: Contraer/expandir todos los bloques de código
+ctrl+j: Mostrar la lista de sugerencias de código
+ctrl+k,ctrl+x: Insertar un fragmento de código
+ctrl+k,ctrl+s: Rodear el código seleccionado con un bloque de código
+
+alt+arrow: Mover la línea seleccionada hacia arriba o hacia abajo
